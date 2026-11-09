@@ -1,0 +1,24 @@
+
+/* Estilo general */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: black;
+    padding: 30px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Tema claro */
+
+.tema-claro {
+    background-color: white;
+    color: black;
+}
+
+/* Tema oscuro */
+
+.tema-oscuro {
+    background-color: #222;
+    color: white;
+}

@@ -1,0 +1,49 @@
+{
+  "name": "dwesclient_3-4_actividad_el_guardi-n_de_la_interfaz",
+  "version": "1.0.0",
+  "description": "3.4. Actividad: El Guardián de la Interfaz",
+  "main": "script.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "bluebird": "^3.7.2",
+    "catharsis": "^0.9.0",
+    "entities": "^4.5.0",
+    "escape-string-regexp": "^2.0.0",
+    "graceful-fs": "^4.2.11",
+    "js2xmlparser": "^4.0.2",
+    "klaw": "^3.0.0",
+    "linkify-it": "^5.0.2",
+    "lodash": "^4.18.1",
+    "markdown-it": "^14.3.3",
+    "markdown-it-anchor": "^8.6.7",
+    "marked": "^4.3.0",
+    "mdurl": "^2.1.0",
+    "mkdirp": "^1.0.4",
+    "punycode.js": "^2.3.1",
+    "requizzle": "^0.2.4",
+    "strip-json-comments": "^3.1.1",
+    "uc.micro": "^2.1.0",
+    "underscore": "^1.13.8",
+    "xmlcreate": "^2.0.4"
+  },
+  "devDependencies": {
+    "jsdoc": "^4.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faseisee/DWESCLIENT_3-4_Actividad_El_Guardi-n_de_la_Interfaz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faseisee/DWESCLIENT_3-4_Actividad_El_Guardi-n_de_la_Interfaz/issues"
+  },
+  "homepage": "https://github.com/Faseisee/DWESCLIENT_3-4_Actividad_El_Guardi-n_de_la_Interfaz#readme"
+}

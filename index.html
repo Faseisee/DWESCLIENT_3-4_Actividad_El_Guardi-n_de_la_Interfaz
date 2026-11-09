@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="estilos.css">
+    <script src="script.js" defer></script>
+
+    <title>El guardián de la Interfaz</title>
+</head>
+
+<body>
+
+    <h1>El guardián de la Interfaz</h1>
+
+    <form id="formulario-preferencias">
+
+        <fieldset>
+            <legend>Datos personales</legend>
+
+            <label for="nombre">Nombre</label>
+            <input type="text" name="nombre" id="nombre" required>
+        </fieldset>
+
+        <br>
+
+    
+        <label for="colorFondo">Elige el color de fondo</label>
+        <input type="color" name="color" id="colorFondo">
+
+        <br><br>
+
+       
+        <label for="tema">Selector de tema</label>
+
+        <select name="tema" id="tema">
+            <option value="claro">Claro</option>
+            <option value="oscuro">Oscuro</option>
+        </select>
+
+        <br><br>
+
+        <button type="submit">Guardar Preferencias</button>
+
+    </form>
+
+    <br>
+
+    
+    <button type="button" id="restablecer">
+        Restablecer Interfaz
+    </button>
+
+    
+    <div id="contenedor-bienvenida"></div>
+
+</body>
+</html>
